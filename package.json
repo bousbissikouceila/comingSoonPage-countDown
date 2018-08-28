@@ -1,9 +1,9 @@
 {
-  "name": "comingsoonlandingpage",
+  "name": "comingsoonpage",
   "version": "1.0.0",
   "description": "A coming soon product (or whatever) counting down till the delivery day",
   "main": "index.js",
-  "homepage": "https://bousbissikouceila.github.io/comingSoonLandingPage",
+  "homepage": "https://bousbissikouceila.github.io/comingSoonPage-countDown",
   "scripts": {
     "deploy": "gh-pages -d dist/"
   },
