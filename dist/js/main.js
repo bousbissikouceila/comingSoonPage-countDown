@@ -9,7 +9,7 @@ const interval = setInterval(() => {
     // Get today's date and time (ms)
     const now = new Date().getTime();
 
-    // Distance from now to the launch date (new year 2019)
+    // Distance from now to the launch date (new year 2020)
     const distance = launchDate - now;
 
     // Time calculations
